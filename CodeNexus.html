@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CodeNexus</title>
+    <link rel="stylesheet" href="CodeNexus.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>CodeNexus</h1>
+
+      <div class="userContainer">
+        <p class="para">Enter your username below:</p>
+
+        <div class="userInputContainer">
+          <input type="text" placeholder="Enter username" id="userName" />
+          <button id="searchBTN">Search</button>
+        </div>
+      </div>
+
+      <div class="statContainer">
+        <div class="progress">
+          <div class="progressItem">
+            <div class="easyProgress circle">
+              <span id="easy"></span>
+              <p>Easy</p>
+            </div>
+          </div>
+
+          <div class="progressItem">
+            <div class="mediumProgress circle">
+              <span id="medium"></span>
+              <p>Medium</p>
+            </div>
+          </div>
+
+          <div class="progressItem">
+            <div class="hardProgress circle">
+              <span id="hard"></span>
+              <p>Hard</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="statsCard">
+          <!-- Directly populate card here from JS code -->
+        </div>
+      </div>
+    </div>
+
+    <script src="CodeNexus.js"></script>
+  </body>
+</html>
