@@ -5,10 +5,8 @@ Users can input their LeetCode username to see their progress on Easy, Medium, a
 ### Technologies Used
  HTML: 
     Structure and layout of the application.
-
  CSS: 
     Advanced styling with gradients, animations, and responsive layouts.
-
  JavaScript: 
     Core functionality, including:
        1.Fetching data from the LeetCode API.
