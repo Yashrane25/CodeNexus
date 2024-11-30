@@ -11,6 +11,9 @@ Advanced styling with gradients, animations, and responsive layouts.
 
 JavaScript: 
 Core functionality, including:
+
 1.Fetching data from the LeetCode API.
+
 2.Validating user input.
+
 3.Dynamically updating progress circles.
