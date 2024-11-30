@@ -1,4 +1,4 @@
-### CodeNexus
+## CodeNexus
 CodeNexus is an interactive web application designed to fetch and visualize a user's coding progress using the LeetCode GraphQL API. 
 Users can input their LeetCode username to see their progress on Easy, Medium, and Hard problem levels.
 
