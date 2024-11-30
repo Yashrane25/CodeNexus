@@ -3,7 +3,7 @@ CodeNexus is an interactive web application designed to fetch and visualize a us
 Users can input their LeetCode username to see their progress on Easy, Medium, and Hard problem levels.
 
 ### Technologies Used
- HTML: 
+#### HTML: 
     Structure and layout of the application.
  CSS: 
     Advanced styling with gradients, animations, and responsive layouts.
